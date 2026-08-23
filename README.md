@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # ⚡ Hi, I'm Soliu Alabi Sulyman — Hilosthone
 
 <p align="center">
@@ -41,7 +41,8 @@ I work across the entire development lifecycle — from designing interfaces and
 💳 FinTech Applications
 🎓 Education Technology
 🏠 Real-Estate & Housing Platforms
-````
+
+```
 
 ---
 
@@ -49,33 +50,13 @@ I work across the entire development lifecycle — from designing interfaces and
 
 ### 💻 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
-</p>
-
 ### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-</p>
 
 ### 📱 Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
-</p>
-
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
 ### 🧠 AI & Intelligent Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 ```text
 Python
@@ -85,13 +66,10 @@ LLM Integration
 AI Agents
 Machine Learning
 Automation
+
 ```
 
 ### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
 
 ---
 
@@ -298,6 +276,8 @@ My personal developer portfolio showcasing my skills, projects, experience, and 
    ├── Authentication
    └── API Architecture
 
+```
+
 ---
 
 ## 🤖 AI Engineering
@@ -315,6 +295,7 @@ I'm currently expanding my work into **AI Engineering**, focusing on building AI
 🔄 AI Automation
 💬 AI Assistants
 📊 Intelligent Data Processing
+
 ```
 
 My goal is to combine **AI + Full-Stack + Mobile Development** to build complete intelligent products rather than isolated AI demos.
@@ -324,10 +305,6 @@ My goal is to combine **AI + Full-Stack + Mobile Development** to build complete
 ## 📱 Mobile Development
 
 I build cross-platform mobile applications using:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,ts" />
-</p>
 
 Currently working with:
 
@@ -355,6 +332,7 @@ Currently working with:
 → Scalable APIs
 → Advanced Flutter
 → Advanced React Native
+
 ```
 
 ---
@@ -369,54 +347,21 @@ I believe the best way to grow as a developer is to continuously build real prod
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilosthone&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilosthone&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hilosthone&theme=radical&hide_border=true" />
-</p>
 
 ---
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilosthone&theme=react-dark&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Hilosthone">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://hilosthone-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="mailto:solihullahsulyman@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
@@ -430,11 +375,6 @@ If you're building something interesting, let's connect and create something imp
 
 ---
 
-<p align="center">
-
 ### ⚡ Code. Build. Innovate. Repeat.
 
 **© 2026 Hilosthone**
-
-</p>
-```

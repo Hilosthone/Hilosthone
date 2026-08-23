@@ -1,76 +1,4 @@
-
-# ⚡ Hi, I'm Soliu Alabi Sulyman — Hilosthone
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Engineer;Mobile+Developer+%7C+React+Native+%26+Flutter;AI+Engineer+%7C+Python+%26+FastAPI;Building+Scalable+Digital+Products" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hilosthone&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer, Mobile Developer, and AI Engineer** passionate about building modern, scalable, and intelligent digital products.
-
-I work across the entire development lifecycle — from designing interfaces and building APIs to developing mobile applications and integrating AI-powered systems.
-
-- 💻 **Full-Stack:** MERN, Next.js, TypeScript
-- 📱 **Mobile:** React Native & Flutter
-- 🤖 **AI Engineering:** Python, FastAPI, AI/ML integrations
-- 🗄️ **Databases:** MongoDB, PostgreSQL
-- 🔌 **Backend:** Node.js, Express.js, FastAPI, REST APIs
-- 🎨 **Frontend:** React, Next.js, Tailwind CSS
-- 🛠️ **Tools:** Git, GitHub, VS Code, Postman
-- 🚀 Focused on building products that solve real-world problems
-
-> **"I don't just write code. I build systems, products, and solutions."**
-
----
-
-## 🚀 What I Build
-
-🌐 Web Applications
-📱 Mobile Applications
-🔌 REST APIs & Backend Systems
-🤖 AI-Powered Applications
-🛒 Marketplaces & E-commerce Platforms
-💳 FinTech Applications
-🎓 Education Technology
-🏠 Real-Estate & Housing Platforms
-
-
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
-### ⚙️ Backend
-
-### 📱 Mobile Development
-
-### 🗄️ Databases
-
-### 🧠 AI & Intelligent Systems
-
-Python
-FastAPI
-AI APIs
-LLM Integration
-AI Agents
-Machine Learning
-Automation
-
----
-
-### 🔧 Tools & Platforms
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎓 D-Enskill
@@ -245,7 +173,7 @@ My personal developer portfolio showcasing my skills, projects, experience, and 
 
 ## 🧩 Areas I Work In
 
-```text
+---text
 🌐 Full-Stack Web Development
    ├── React
    ├── Next.js
@@ -273,106 +201,85 @@ My personal developer portfolio showcasing my skills, projects, experience, and 
    ├── PostgreSQL
    ├── Authentication
    └── API Architecture
-
-```
-
----
-
-## 🤖 AI Engineering
-
-I'm currently expanding my work into **AI Engineering**, focusing on building AI systems that can be integrated into real-world applications.
-
-### Current Areas
-
-```text
-🧠 Large Language Models
-🤖 AI Agents
-🔌 AI API Integration
-⚡ FastAPI AI Backends
-🐍 Python
-🔄 AI Automation
-💬 AI Assistants
-📊 Intelligent Data Processing
-
-```
-
-My goal is to combine **AI + Full-Stack + Mobile Development** to build complete intelligent products rather than isolated AI demos.
+---`
 
 ---
 
-## 📱 Mobile Development
+## 🔥 Current Focus
 
-I build cross-platform mobile applications using:
+I'm currently focused on combining **Full-Stack Development, Mobile Engineering, and AI** to build complete production-ready products.
 
-Currently working with:
-
-* React Native
-* Expo
-* Flutter
-* Dart
-* TypeScript
-* REST APIs
-* Authentication
-* State Management
-* Mobile UI/UX
+---text
+⚡ Scalable Web Applications
+📱 Cross-Platform Mobile Apps
+🤖 AI-Powered Products
+🧠 AI Agents & Automation
+🔌 Production APIs
+☁️ Backend Architecture
+🚀 Product Development
+---
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 Featured Work
 
-```text
-→ Advanced Backend Architecture
-→ AI Engineering
-→ FastAPI
-→ AI Agents
-→ System Design
-→ Cloud Deployment
-→ Scalable APIs
-→ Advanced Flutter
-→ Advanced React Native
-
-```
-
----
-
-## 🎯 My Development Philosophy
-
-> **Build. Learn. Ship. Improve.**
-
-I believe the best way to grow as a developer is to continuously build real products, solve real problems, learn from failures, and improve every iteration.
+| Project                            | Category            | Technology              |
+| ---------------------------------- | ------------------- | ----------------------- |
+| **D-Enskill**                      | EdTech              | Next.js / TypeScript    |
+| **BiluxSkill AI**                  | AI / CareerTech     | Python / FastAPI        |
+| **NewsPulse AI**                   | AI / NewsTech       | FastAPI / Llama         |
+| **Doc Q&A AI**                     | Generative AI       | GPT-4o / FAISS          |
+| **AI Support Bot**                 | AI / SaaS           | TypeScript              |
+| **Code Review AI**                 | Developer Tools     | FastAPI / GPT-4o        |
+| **Flurzi Marketplace**             | Mobile / E-commerce | Flutter                 |
+| **OBA's Closet**                   | Mobile / E-commerce | Flutter                 |
+| **Distinguished Scholars Academy** | EdTech              | Next.js                 |
+| **Hilosthone Portfolio**           | Portfolio           | Next.js / Framer Motion |
 
 ---
 
-## 📊 GitHub Stats
+## 🌍 Open Source & Experiments
+
+I also explore and experiment with AI-powered developer tools, automation systems, productivity applications, and modern software architectures.
+
+Some of these projects started as experiments, while others are being developed into more complete products.
 
 ---
 
-## 🔥 Contribution Streak
+## 📌 What I'm Building Toward
+
+> **AI + Full-Stack + Mobile**
+
+My long-term focus is building intelligent products where **AI isn't just an added feature, but an integrated part of the product architecture.**
 
 ---
 
-## 📈 GitHub Activity
+## 💡 Let's Build
+
+Interested in:
+
+**AI Products • SaaS • FinTech • EdTech • Mobile Apps • Marketplaces • Developer Tools • Intelligent Systems**
+
+Let's build something useful.
 
 ---
 
-## 🏆 GitHub Trophies
+### One important change I'd make
 
+Don't put **every repository** in the main README. Your GitHub already displays all repositories below the profile README. The README should showcase your **best work**, not duplicate your entire repository list.
+
+For your profile, I'd make the top projects:
+
+1. **D-Enskill** → strongest full-stack/EdTech project
+2. **BiluxSkill AI** → strongest AI project
+3. **NewsPulse AI** → strong FastAPI/backend project
+4. **Doc Q&A AI** → RAG/AI project
+5. **Code Review AI** → AI developer tooling
+6. **Flurzi Marketplace** → mobile/Flutter
+7. **OBA's Closet** → mobile/e-commerce
+8. **Distinguished Scholars Academy** → Next.js/EdTech
+9. **Hilosthone Portfolio** → personal brand
+10. **Simple Server** → beginner/backend demonstration
+
+That gives your profile a much clearer identity: **Full-Stack Developer + Mobile Developer + AI Engineer**, rather than looking like a random collection of repositories.
 ---
-
-## 🌐 Connect With Me
-
----
-
-## 💡 Let's Build Something
-
-I'm interested in building:
-
-**AI-powered products • FinTech • EdTech • Marketplaces • Mobile Apps • SaaS • Developer Tools**
-
-If you're building something interesting, let's connect and create something impactful.
-
----
-
-### ⚡ Code. Build. Innovate. Repeat.
-
-**© 2026 Hilosthone**

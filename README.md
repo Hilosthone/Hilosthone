@@ -1,5 +1,3 @@
-Absolutely. Here is a complete **GitHub Profile README** tailored to your stack and projects. Create a repository named **`Hilosthone`**, then put this into its `README.md`.
-
 ````markdown
 # ⚡ Hi, I'm Soliu Alabi Sulyman — Hilosthone
 

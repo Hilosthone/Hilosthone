@@ -414,7 +414,7 @@ I believe the best way to grow as a developer is to continuously build real prod
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---

@@ -247,16 +247,6 @@ A modern educational website built for Distinguished Scholars Academy, focused o
 
 ---
 
-### 🖥️ Hilosthone Simple Server
-
-A simple Express.js backend demonstrating REST-style routing and multiple server endpoints.
-
-**Stack:** JavaScript • Node.js • Express.js
-
-🔗 [View Project](https://github.com/Hilosthone/hilosthone-simple-server)
-
----
-
 ### 🌐 Hilosthone Portfolio
 
 My personal developer portfolio showcasing my skills, projects, experience, and work.
@@ -391,10 +381,40 @@ I believe the best way to grow as a developer is to continuously build real prod
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+<a href="https://github.com/users/Hilosthone/achievements/yolo">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" alt="YOLO Achievement" />
+</a>
+
+<a href="https://github.com/users/Hilosthone/achievements/pull-shark">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark Achievement" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>YOLO</b> &nbsp;&nbsp;&nbsp; <b>Pull Shark ×2</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/users/Hilosthone/achievements/yolo">
+    View YOLO Achievement
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/users/Hilosthone/achievements/pull-shark">
+    View Pull Shark ×2
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
 </p>
 
 ---

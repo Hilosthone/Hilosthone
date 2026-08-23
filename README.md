@@ -1,4 +1,4 @@
-```
+
 # ⚡ Hi, I'm Soliu Alabi Sulyman — Hilosthone
 
 <p align="center">
@@ -42,7 +42,7 @@ I work across the entire development lifecycle — from designing interfaces and
 🎓 Education Technology
 🏠 Real-Estate & Housing Platforms
 
-```
+
 
 ---
 

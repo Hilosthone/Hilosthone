@@ -1,285 +1,285 @@
 ---
-## 🚀 Featured Projects
+# ⚡ Hi, I'm Soliu Alabi Sulyman — Hilosthone
 
-### 🎓 D-Enskill
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Engineer;Mobile+Developer+%7C+React+Native+%26+Flutter;AI+Engineer+%7C+Python+%26+FastAPI;Building+Scalable+Digital+Products" alt="Typing SVG" />
+</p>
 
-A modern, high-performance educational platform built for a tech-focused academy, providing an interactive learning experience for students.
-
-**Stack:** Next.js • TypeScript • Tailwind CSS • React
-
-🔗 [View Project](https://github.com/Hilosthone/d-enskill)
-
----
-
-### 🤖 BiluxSkill AI
-
-A production-ready AI-powered career intelligence platform for job analysis, skill-gap detection, career recommendations, and personalized learning roadmaps.
-
-**Stack:** Python • FastAPI • AI/ML • REST API
-
-🔗 [View Project](https://github.com/Hilosthone/biluxskill-ai-api)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hilosthone&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### 📰 NewsPulse AI
+## 👨‍💻 About Me
 
-A production-grade AI news aggregation API that collects live RSS feeds and uses AI to summarize and process news content.
+I'm a **Full-Stack Developer, Mobile Developer, and AI Engineer** passionate about building modern, scalable, and intelligent digital products.
 
-**Stack:** Python • FastAPI • Groq • Llama 3 • REST API
+I work across the entire development lifecycle — from designing interfaces and building APIs to developing mobile applications and integrating AI-powered systems.
 
-🔗 [View Project](https://github.com/Hilosthone/NewsPulse-AI)
+- 💻 **Full-Stack:** MERN, Next.js, TypeScript
+- 📱 **Mobile:** React Native & Flutter
+- 🤖 **AI Engineering:** Python, FastAPI, AI/ML integrations
+- 🗄️ **Databases:** MongoDB, PostgreSQL
+- 🔌 **Backend:** Node.js, Express.js, FastAPI, REST APIs
+- 🎨 **Frontend:** React, Next.js, Tailwind CSS
+- 🛠️ **Tools:** Git, GitHub, VS Code, Postman
+- 🚀 Focused on building products that solve real-world problems
 
----
-
-### 🧠 Doc Q&A AI
-
-An AI-powered document question-answering system that allows users to upload PDF documents and ask questions about their content.
-
-**Stack:** JavaScript • GPT-4o • FAISS • AI
-
-🔗 [View Project](https://github.com/Hilosthone/doc-qa-ai)
-
----
-
-### 💬 AI Support Bot
-
-An AI-powered customer support system that allows businesses to upload their documentation and provide automated answers to customer questions.
-
-**Stack:** TypeScript • AI • LLM • Knowledge Retrieval
-
-🔗 [View Project](https://github.com/Hilosthone/ai-support-bot)
+> **"I don't just write code. I build systems, products, and solutions."**
 
 ---
 
-### 🔍 Code Review AI
-
-An AI-powered code review system that analyzes source code, identifies potential bugs and security issues, and provides improvement suggestions.
-
-**Stack:** FastAPI • Python • GPT-4o • AI
-
-🔗 [View Project](https://github.com/Hilosthone/code-review-ai)
-
----
-
-### 📋 Meeting Extractor
-
-An AI-powered meeting intelligence tool that converts meeting recordings or transcripts into summaries, decisions, action items, owners, and deadlines.
-
-**Stack:** TypeScript • AI • Automation
-
-🔗 [View Project](https://github.com/Hilosthone/meeting-extractor)
-
----
-
-### ✍️ AI Content Generator
-
-An AI content creation platform for generating ready-to-publish content based on topic, tone, and target platform.
-
-**Stack:** TypeScript • AI • LLM
-
-🔗 [View Project](https://github.com/Hilosthone/ai-content-gen)
-
----
-
-### 📈 AI Content Optimizer
-
-An AI-powered content optimization platform providing SEO recommendations, readability improvements, engagement suggestions, and posting strategies.
-
-**Stack:** JavaScript • AI • SEO Automation
-
-🔗 [View Project](https://github.com/Hilosthone/ai-content-optimizer)
-
----
-
-### 📄 AI Resume Analyzer
-
-An AI-powered resume analysis platform that evaluates resumes, extracts skills, identifies missing keywords, and provides ATS-focused recommendations.
-
-**Stack:** TypeScript • AI • LLM
-
-🔗 [View Project](https://github.com/Hilosthone/ai-resume-analyzer)
-
----
-
-### 💼 AI Proposal Generator
-
-An AI-powered proposal generation platform designed to help users create professional proposals faster.
-
-**Stack:** TypeScript • AI • LLM
-
-🔗 [View Project](https://github.com/Hilosthone/ai-proposal-gen)
-
----
-
-### 📱 Flurzi Marketplace
-
-A Flutter-based marketplace application designed for modern buying and selling experiences.
-
-**Stack:** Flutter • Dart
-
-🔗 [View Project](https://github.com/Hilosthone/flurzi_market_flutter)
-
----
-
-### 🛍️ OBA's Closet
-
-A Jumia-inspired Flutter e-commerce application for premium vintage clothing, featuring modular architecture and optimized image handling.
-
-**Stack:** Flutter • Dart
-
-🔗 [View Project](https://github.com/Hilosthone/obas-closet-flutter)
-
----
-
-### 🏥 Genie Clinicus
-
-A modern healthcare-focused platform built as an FYB project.
-
-**Stack:** TypeScript • React • Modern Web Technologies
-
-🔗 [View Project](https://github.com/Hilosthone/genie-clinicus)
-
----
-
-### 🏫 Distinguished Scholars Academy
-
-A modern educational website built for Distinguished Scholars Academy, focused on responsiveness, interactivity, and an engaging student experience.
-
-**Stack:** Next.js • TypeScript • Shadcn UI
-
-🔗 [View Project](https://github.com/Hilosthone/distinguished-scholars-academy)
-
----
-
-### 🖥️ Hilosthone Simple Server
-
-A simple Express.js backend demonstrating REST-style routing and multiple server endpoints.
-
-**Stack:** JavaScript • Node.js • Express.js
-
-🔗 [View Project](https://github.com/Hilosthone/hilosthone-simple-server)
-
----
-
-### 🌐 Hilosthone Portfolio
-
-My personal developer portfolio showcasing my skills, projects, experience, and work.
-
-**Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion
-
-🔗 [View Project](https://github.com/Hilosthone/Hilosthone-portfolio)
-
----
-
-## 🧩 Areas I Work In
+## 🚀 What I Build
 
 ---text
-🌐 Full-Stack Web Development
-   ├── React
-   ├── Next.js
-   ├── Node.js
-   ├── Express.js
-   └── TypeScript
-
-📱 Mobile Development
-   ├── React Native
-   ├── Expo
-   ├── Flutter
-   └── Dart
-
-🤖 AI Engineering
-   ├── Python
-   ├── FastAPI
-   ├── LLM Integration
-   ├── AI Agents
-   ├── RAG Systems
-   └── AI Automation
-
-🗄️ Backend & Infrastructure
-   ├── REST APIs
-   ├── MongoDB
-   ├── PostgreSQL
-   ├── Authentication
-   └── API Architecture
+🌐 Web Applications
+📱 Mobile Applications
+🔌 REST APIs & Backend Systems
+🤖 AI-Powered Applications
+🛒 Marketplaces & E-commerce Platforms
+💳 FinTech Applications
+🎓 Education Technology
+🏠 Real-Estate & Housing Platforms
 ---`
 
 ---
 
-## 🔥 Current Focus
+## 🛠️ Tech Stack
 
-I'm currently focused on combining **Full-Stack Development, Mobile Engineering, and AI** to build complete production-ready products.
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+### 🧠 AI & Intelligent Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ---text
-⚡ Scalable Web Applications
-📱 Cross-Platform Mobile Apps
-🤖 AI-Powered Products
-🧠 AI Agents & Automation
-🔌 Production APIs
-☁️ Backend Architecture
-🚀 Product Development
+Python
+FastAPI
+AI APIs
+LLM Integration
+AI Agents
+Machine Learning
+Automation
+---
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Hpay — Digital Payment Platform
+
+A modern payment platform concept designed around fast, simple, and accessible digital transactions.
+
+**Stack:** React / Next.js / TypeScript / Node.js
+
+---
+
+### 📱 JustXend
+
+A cross-border financial application focused on currency conversion and international transactions.
+
+**Stack:** React Native / Expo / TypeScript
+
+---
+
+### 🎓 Distinguished Scholars Academy
+
+An educational platform designed to support students preparing for examinations and academic programs.
+
+**Stack:** Next.js / TypeScript / Tailwind CSS
+
+---
+
+### 🛍️ Flurzi Marketplace
+
+A mobile marketplace concept focused on connecting buyers and sellers through a modern shopping experience.
+
+**Stack:** Flutter / Dart
+
+---
+
+### 🎬 Skiflux
+
+A mobile learning and content platform combining short-form content with educational experiences.
+
+**Stack:** Flutter / Dart
+
+---
+
+### 🏠 Lodgr
+
+A student-focused housing platform designed to simplify accommodation discovery and management.
+
+**Stack:** Full-Stack Web Technologies
+
+---
+
+## 🤖 AI Engineering
+
+I'm currently expanding my work into **AI Engineering**, focusing on building AI systems that can be integrated into real-world applications.
+
+### Current Areas
+
+---text
+🧠 Large Language Models
+🤖 AI Agents
+🔌 AI API Integration
+⚡ FastAPI AI Backends
+🐍 Python
+🔄 AI Automation
+💬 AI Assistants
+📊 Intelligent Data Processing
+---
+
+My goal is to combine **AI + Full-Stack + Mobile Development** to build complete intelligent products rather than isolated AI demos.
+
+---
+
+## 📱 Mobile Development
+
+I build cross-platform mobile applications using:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,ts" />
+</p>
+
+Currently working with:
+
+* React Native
+* Expo
+* Flutter
+* Dart
+* TypeScript
+* REST APIs
+* Authentication
+* State Management
+* Mobile UI/UX
+
+---
+
+## 🌱 Currently Learning
+
+---
+→ Advanced Backend Architecture
+→ AI Engineering
+→ FastAPI
+→ AI Agents
+→ System Design
+→ Cloud Deployment
+→ Scalable APIs
+→ Advanced Flutter
+→ Advanced React Native
 ---
 
 ---
 
-## 🏆 Featured Work
+## 🎯 My Development Philosophy
 
-| Project                            | Category            | Technology              |
-| ---------------------------------- | ------------------- | ----------------------- |
-| **D-Enskill**                      | EdTech              | Next.js / TypeScript    |
-| **BiluxSkill AI**                  | AI / CareerTech     | Python / FastAPI        |
-| **NewsPulse AI**                   | AI / NewsTech       | FastAPI / Llama         |
-| **Doc Q&A AI**                     | Generative AI       | GPT-4o / FAISS          |
-| **AI Support Bot**                 | AI / SaaS           | TypeScript              |
-| **Code Review AI**                 | Developer Tools     | FastAPI / GPT-4o        |
-| **Flurzi Marketplace**             | Mobile / E-commerce | Flutter                 |
-| **OBA's Closet**                   | Mobile / E-commerce | Flutter                 |
-| **Distinguished Scholars Academy** | EdTech              | Next.js                 |
-| **Hilosthone Portfolio**           | Portfolio           | Next.js / Framer Motion |
+> **Build. Learn. Ship. Improve.**
+
+I believe the best way to grow as a developer is to continuously build real products, solve real problems, learn from failures, and improve every iteration.
 
 ---
 
-## 🌍 Open Source & Experiments
+## 📊 GitHub Stats
 
-I also explore and experiment with AI-powered developer tools, automation systems, productivity applications, and modern software architectures.
-
-Some of these projects started as experiments, while others are being developed into more complete products.
-
----
-
-## 📌 What I'm Building Toward
-
-> **AI + Full-Stack + Mobile**
-
-My long-term focus is building intelligent products where **AI isn't just an added feature, but an integrated part of the product architecture.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hilosthone&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilosthone&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
 
 ---
 
-## 💡 Let's Build
+## 🔥 Contribution Streak
 
-Interested in:
-
-**AI Products • SaaS • FinTech • EdTech • Mobile Apps • Marketplaces • Developer Tools • Intelligent Systems**
-
-Let's build something useful.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hilosthone&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### One important change I'd make
+## 📈 GitHub Activity
 
-Don't put **every repository** in the main README. Your GitHub already displays all repositories below the profile README. The README should showcase your **best work**, not duplicate your entire repository list.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilosthone&theme=react-dark&hide_border=true" />
+</p>
 
-For your profile, I'd make the top projects:
+---
 
-1. **D-Enskill** → strongest full-stack/EdTech project
-2. **BiluxSkill AI** → strongest AI project
-3. **NewsPulse AI** → strong FastAPI/backend project
-4. **Doc Q&A AI** → RAG/AI project
-5. **Code Review AI** → AI developer tooling
-6. **Flurzi Marketplace** → mobile/Flutter
-7. **OBA's Closet** → mobile/e-commerce
-8. **Distinguished Scholars Academy** → Next.js/EdTech
-9. **Hilosthone Portfolio** → personal brand
-10. **Simple Server** → beginner/backend demonstration
+## 🏆 GitHub Trophies
 
-That gives your profile a much clearer identity: **Full-Stack Developer + Mobile Developer + AI Engineer**, rather than looking like a random collection of repositories.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Hilosthone">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://hilosthone-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:solihullahsulyman@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 💡 Let's Build Something
+
+I'm interested in building:
+
+**AI-powered products • FinTech • EdTech • Marketplaces • Mobile Apps • SaaS • Developer Tools**
+
+If you're building something interesting, let's connect and create something impactful.
+
+---
+
+<p align="center">
+
+### ⚡ Code. Build. Innovate. Repeat.
+
+**© 2026 Hilosthone**
+
+</p>
 ---

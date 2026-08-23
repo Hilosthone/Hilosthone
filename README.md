@@ -32,7 +32,7 @@ I work across the entire development lifecycle — from designing interfaces and
 
 ## 🚀 What I Build
 
----text
+---
 🌐 Web Applications
 📱 Mobile Applications
 🔌 REST APIs & Backend Systems
@@ -77,7 +77,7 @@ I work across the entire development lifecycle — from designing interfaces and
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
----text
+--- 
 Python
 FastAPI
 AI APIs
@@ -151,7 +151,7 @@ I'm currently expanding my work into **AI Engineering**, focusing on building AI
 
 ### Current Areas
 
----text
+--- 
 🧠 Large Language Models
 🤖 AI Agents
 🔌 AI API Integration

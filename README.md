@@ -32,7 +32,6 @@ I work across the entire development lifecycle — from designing interfaces and
 
 ## 🚀 What I Build
 
-```text
 🌐 Web Applications
 📱 Mobile Applications
 🔌 REST APIs & Backend Systems
@@ -58,7 +57,6 @@ I work across the entire development lifecycle — from designing interfaces and
 
 ### 🧠 AI & Intelligent Systems
 
-```text
 Python
 FastAPI
 AI APIs
@@ -67,7 +65,7 @@ AI Agents
 Machine Learning
 Automation
 
-```
+---
 
 ### 🔧 Tools & Platforms
 

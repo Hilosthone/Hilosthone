@@ -356,15 +356,6 @@ I believe the best way to grow as a developer is to continuously build real prod
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilosthone&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilosthone&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -407,14 +398,6 @@ I believe the best way to grow as a developer is to continuously build real prod
   <a href="https://github.com/users/Hilosthone/achievements/pull-shark">
     View Pull Shark ×2
   </a>
-</p>
-
----
-
-## 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hilosthone&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---

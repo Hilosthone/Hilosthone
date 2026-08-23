@@ -97,52 +97,206 @@ Automation
 
 ## 🚀 Featured Projects
 
-### 💳 Hpay — Digital Payment Platform
+### 🎓 D-Enskill
 
-A modern payment platform concept designed around fast, simple, and accessible digital transactions.
+A modern, high-performance educational platform built for a tech-focused academy, providing an interactive learning experience for students.
 
-**Stack:** React / Next.js / TypeScript / Node.js
+**Stack:** Next.js • TypeScript • Tailwind CSS • React
 
----
-
-### 📱 JustXend
-
-A cross-border financial application focused on currency conversion and international transactions.
-
-**Stack:** React Native / Expo / TypeScript
+🔗 [View Project](https://github.com/Hilosthone/d-enskill)
 
 ---
 
-### 🎓 Distinguished Scholars Academy
+### 🤖 BiluxSkill AI
 
-An educational platform designed to support students preparing for examinations and academic programs.
+A production-ready AI-powered career intelligence platform for job analysis, skill-gap detection, career recommendations, and personalized learning roadmaps.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS
+**Stack:** Python • FastAPI • AI/ML • REST API
 
----
-
-### 🛍️ Flurzi Marketplace
-
-A mobile marketplace concept focused on connecting buyers and sellers through a modern shopping experience.
-
-**Stack:** Flutter / Dart
+🔗 [View Project](https://github.com/Hilosthone/biluxskill-ai-api)
 
 ---
 
-### 🎬 Skiflux
+### 📰 NewsPulse AI
 
-A mobile learning and content platform combining short-form content with educational experiences.
+A production-grade AI news aggregation API that collects live RSS feeds and uses AI to summarize and process news content.
 
-**Stack:** Flutter / Dart
+**Stack:** Python • FastAPI • Groq • Llama 3 • REST API
+
+🔗 [View Project](https://github.com/Hilosthone/NewsPulse-AI)
 
 ---
 
-### 🏠 Lodgr
+### 🧠 Doc Q&A AI
 
-A student-focused housing platform designed to simplify accommodation discovery and management.
+An AI-powered document question-answering system that allows users to upload PDF documents and ask questions about their content.
 
-**Stack:** Full-Stack Web Technologies
+**Stack:** JavaScript • GPT-4o • FAISS • AI
 
+🔗 [View Project](https://github.com/Hilosthone/doc-qa-ai)
+
+---
+
+### 💬 AI Support Bot
+
+An AI-powered customer support system that allows businesses to upload their documentation and provide automated answers to customer questions.
+
+**Stack:** TypeScript • AI • LLM • Knowledge Retrieval
+
+🔗 [View Project](https://github.com/Hilosthone/ai-support-bot)
+
+---
+
+### 🔍 Code Review AI
+
+An AI-powered code review system that analyzes source code, identifies potential bugs and security issues, and provides improvement suggestions.
+
+**Stack:** FastAPI • Python • GPT-4o • AI
+
+🔗 [View Project](https://github.com/Hilosthone/code-review-ai)
+
+---
+
+### 📋 Meeting Extractor
+
+An AI-powered meeting intelligence tool that converts meeting recordings or transcripts into summaries, decisions, action items, owners, and deadlines.
+
+**Stack:** TypeScript • AI • Automation
+
+🔗 [View Project](https://github.com/Hilosthone/meeting-extractor)
+
+---
+
+### ✍️ AI Content Generator
+
+An AI content creation platform for generating ready-to-publish content based on topic, tone, and target platform.
+
+**Stack:** TypeScript • AI • LLM
+
+🔗 [View Project](https://github.com/Hilosthone/ai-content-gen)
+
+---
+
+### 📈 AI Content Optimizer
+
+An AI-powered content optimization platform providing SEO recommendations, readability improvements, engagement suggestions, and posting strategies.
+
+**Stack:** JavaScript • AI • SEO Automation
+
+🔗 [View Project](https://github.com/Hilosthone/ai-content-optimizer)
+
+---
+
+### 📄 AI Resume Analyzer
+
+An AI-powered resume analysis platform that evaluates resumes, extracts skills, identifies missing keywords, and provides ATS-focused recommendations.
+
+**Stack:** TypeScript • AI • LLM
+
+🔗 [View Project](https://github.com/Hilosthone/ai-resume-analyzer)
+
+---
+
+### 💼 AI Proposal Generator
+
+An AI-powered proposal generation platform designed to help users create professional proposals faster.
+
+**Stack:** TypeScript • AI • LLM
+
+🔗 [View Project](https://github.com/Hilosthone/ai-proposal-gen)
+
+---
+
+### 📱 Flurzi Marketplace
+
+A Flutter-based marketplace application designed for modern buying and selling experiences.
+
+**Stack:** Flutter • Dart
+
+🔗 [View Project](https://github.com/Hilosthone/flurzi_market_flutter)
+
+---
+
+### 🛍️ OBA's Closet
+
+A Jumia-inspired Flutter e-commerce application for premium vintage clothing, featuring modular architecture and optimized image handling.
+
+**Stack:** Flutter • Dart
+
+🔗 [View Project](https://github.com/Hilosthone/obas-closet-flutter)
+
+---
+
+### 🏥 Genie Clinicus
+
+A modern healthcare-focused platform built as an FYB project.
+
+**Stack:** TypeScript • React • Modern Web Technologies
+
+🔗 [View Project](https://github.com/Hilosthone/genie-clinicus)
+
+---
+
+### 🏫 Distinguished Scholars Academy
+
+A modern educational website built for Distinguished Scholars Academy, focused on responsiveness, interactivity, and an engaging student experience.
+
+**Stack:** Next.js • TypeScript • Shadcn UI
+
+🔗 [View Project](https://github.com/Hilosthone/distinguished-scholars-academy)
+
+---
+
+### 🖥️ Hilosthone Simple Server
+
+A simple Express.js backend demonstrating REST-style routing and multiple server endpoints.
+
+**Stack:** JavaScript • Node.js • Express.js
+
+🔗 [View Project](https://github.com/Hilosthone/hilosthone-simple-server)
+
+---
+
+### 🌐 Hilosthone Portfolio
+
+My personal developer portfolio showcasing my skills, projects, experience, and work.
+
+**Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion
+
+🔗 [View Project](https://github.com/Hilosthone/Hilosthone-portfolio)
+
+---
+
+## 🧩 Areas I Work In
+
+--- 
+🌐 Full-Stack Web Development
+   ├── React
+   ├── Next.js
+   ├── Node.js
+   ├── Express.js
+   └── TypeScript
+
+📱 Mobile Development
+   ├── React Native
+   ├── Expo
+   ├── Flutter
+   └── Dart
+
+🤖 AI Engineering
+   ├── Python
+   ├── FastAPI
+   ├── LLM Integration
+   ├── AI Agents
+   ├── RAG Systems
+   └── AI Automation
+
+🗄️ Backend & Infrastructure
+   ├── REST APIs
+   ├── MongoDB
+   ├── PostgreSQL
+   ├── Authentication
+   └── API Architecture
 ---
 
 ## 🤖 AI Engineering

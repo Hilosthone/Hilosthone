@@ -359,7 +359,7 @@ I believe the best way to grow as a developer is to continuously build real prod
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hilosthone&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Hilosthone&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -367,7 +367,7 @@ I believe the best way to grow as a developer is to continuously build real prod
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilosthone&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilosthone&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
